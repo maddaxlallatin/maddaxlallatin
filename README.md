@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 Projects:
+
+[noSpeedPolice](https://github.com/papamaddax/FiveM/tree/main/noSpeedPolice) - a FiveM script that works with Luxart Vehicle Controls to limit all emergency vehicles to the speed limit unless their lights are toggled on.
+
  📫 How to reach me:
 
 Discord: [`papamaddax#1439`](https://discord.com/users/413624855510908929)
