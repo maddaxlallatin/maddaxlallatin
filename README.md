@@ -23,4 +23,6 @@ Here are some ideas to get you started:
 Discord: [`papamaddax#1439`](https://discord.com/users/413624855510908929)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=papamaddax&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papamaddax&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
