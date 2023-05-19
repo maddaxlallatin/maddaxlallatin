@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [noSpeedPolice](https://github.com/maddaxlallatin/FiveM/tree/main/noSpeedPolice) - a FiveM script that works with Luxart Vehicle Controls to limit all emergency vehicles to the speed limit unless their lights are toggled on.
 
-[vrCupPong](https://github.com/maddaxlallatin/vrCupPong) - a multiplayer vr cup pong like game made in unity using PhotonPUN. 
+[vrCupPong](https://github.com/maddaxlallatin/cupPong) - a multiplayer vr cup pong like game made in unity using PhotonPUN. 
 
  📫 How to reach me:
 
