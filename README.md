@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
  📫 How to reach me:
 
-Discord: [`papamaddax#1439`](https://discord.com/users/413624855510908929)
+Discord: [`@papamaddax`](https://discord.com/users/413624855510908929)
 
 Languages and Tools:
 
