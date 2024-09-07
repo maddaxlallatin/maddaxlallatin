@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 [GFRC 2023](https://github.com/maddaxlallatin/GFRC_2023) - summer mentorship program at MITRE, collaborated with other highschool students to build a FRC simulation.
 
+[Tara's Cookboot](https://github.com/maddaxlallatin/tarasCookbook) - digital cookbook created using springboot, vite, mongoDB and hosted using AWS 
+
 
  📫 How to reach me:
 
