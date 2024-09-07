@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 -->
 🔭 Projects:
 
+[Grizzly Guide](https://github.com/maddaxlallatin/grizzlyGuide) - This project showcases a school map integrated with a gantry system, controlled by two Arduino Unos and a CNC shield. Stepper motors move a magnet-equipped bear through the hallways, guiding new students to their chosen rooms.
+
 [vrCupPong](https://github.com/maddaxlallatin/cupPong) - a multiplayer vr cup pong like game made in unity using PhotonPUN. Download the .apk [here](https://github.com/maddaxlallatin/maddaxlallatin/releases/download/release/build.apk)
 
 [GFRC 2023](https://github.com/maddaxlallatin/GFRC_2023) - summer mentorship program at MITRE, collaborated with other highschool students to build a FRC simulation.
 
-[Grizzly Guide](https://github.com/maddaxlallatin/grizzlyGuide) - This project showcases a school map integrated with a gantry system, controlled by two Arduino Unos and a CNC shield. Stepper motors move a magnet-equipped bear through the hallways, guiding new students to their chosen rooms.
 
  📫 How to reach me:
 
